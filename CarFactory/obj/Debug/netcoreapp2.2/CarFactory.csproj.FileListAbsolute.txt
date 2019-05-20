@@ -1,0 +1,11 @@
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/obj/Debug/netcoreapp2.2/CarFactory.csprojAssemblyReference.cache
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/obj/Debug/netcoreapp2.2/CarFactory.csproj.CoreCompileInputs.cache
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/obj/Debug/netcoreapp2.2/CarFactory.AssemblyInfoInputs.cache
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/obj/Debug/netcoreapp2.2/CarFactory.AssemblyInfo.cs
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/bin/Debug/netcoreapp2.2/CarFactory.deps.json
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/bin/Debug/netcoreapp2.2/CarFactory.runtimeconfig.json
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/bin/Debug/netcoreapp2.2/CarFactory.runtimeconfig.dev.json
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/bin/Debug/netcoreapp2.2/CarFactory.dll
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/bin/Debug/netcoreapp2.2/CarFactory.pdb
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/obj/Debug/netcoreapp2.2/CarFactory.dll
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory/obj/Debug/netcoreapp2.2/CarFactory.pdb

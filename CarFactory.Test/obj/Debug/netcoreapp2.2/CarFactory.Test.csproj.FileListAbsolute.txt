@@ -1,0 +1,17 @@
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/obj/Debug/netcoreapp2.2/CarFactory.Test.csprojAssemblyReference.cache
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/obj/Debug/netcoreapp2.2/CarFactory.Test.csproj.CoreCompileInputs.cache
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/obj/Debug/netcoreapp2.2/CarFactory.Test.AssemblyInfoInputs.cache
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/obj/Debug/netcoreapp2.2/CarFactory.Test.AssemblyInfo.cs
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/CarFactory.Test.deps.json
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/CarFactory.Test.runtimeconfig.json
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/CarFactory.Test.runtimeconfig.dev.json
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/CarFactory.Test.dll
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/CarFactory.Test.pdb
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/CarFactory.dll
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/bin/Debug/netcoreapp2.2/CarFactory.pdb
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/obj/Debug/netcoreapp2.2/CarFactory.Test.csproj.CopyComplete
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/obj/Debug/netcoreapp2.2/CarFactory.Test.dll
+/Users/catartic/Playground/C#/Scripting/CarFactory/CarFactory/CarFactory.Test/obj/Debug/netcoreapp2.2/CarFactory.Test.pdb
